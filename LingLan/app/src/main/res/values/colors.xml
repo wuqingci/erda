@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_fragment_title">#ffc33c12</color>
+    <color name="no_text_color_fragment_title">#666666</color>
+    <color name="gainsboro">#cccccc</color>
+    <color name="right_bg_color">#dddddd</color>
+    <color name="gray_orange">#c33c12</color>
+    <color name="carminum">#a0141a</color>
+    <color name="french_grey">#999999</color>
+    <color name="gray">#666666</color>
+    <color name="light_gray">#F0F0F0</color>
+    <color name="text_title_color">#333333</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="whitesmoke">#f2f2f2</color>
+    <color name="transparent_black">#22000000</color>
+
+    <color name="indicatorColor">#FF666666</color>
+    <color name="start_page_theme_color3">#644956</color>
+    <color name="project_divider_color">#EBEBEB</color>
+    <color name="font_deep_color">#272727</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+    <color name="base_color_orange">#FE6829</color>
+</resources>
